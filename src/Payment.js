@@ -40,11 +40,11 @@ class Payment extends Component {
     }];
 
     let details = {
-      total: { label: 'Donation', amount: { currency: 'USD', value: '55.00' } },
+      total: { label: 'Donation', amount: { currency: 'USD', value: '1.00' } },
       displayItems: [
         {
           label: 'Original donation amount',
-          amount: {currency: 'USD', value: '65.00'},
+          amount: {currency: 'USD', value: '11.00'},
         },
         {
           label: 'Friends and family discount',
